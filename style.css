@@ -1,0 +1,15 @@
+.calculator {
+    width: 400px;
+    margin: 50px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+button {
+    width: 70px;
+    height: 40px;
+    margin: 5px;
+    font-size: 18px;
+}
